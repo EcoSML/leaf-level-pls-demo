@@ -1,0 +1,8 @@
+{
+  "id": "57b12104-26fc-4e74-90da-31303ffc8709",
+  "name": "leaf-level-pls-demo",
+  "overview": "pls models for leaf level trait prediction using ASD fresh spectra",
+  "organization": "uw-madison",
+  "language": "python",
+  "owner": "selta"
+}
