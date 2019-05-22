@@ -6,9 +6,23 @@
     "fresh spectra",
     "leaf level"
   ],
-  "theme": [],
-  "family": [],
-  "specific": [],
+  "theme": [
+    "chemistry",
+    "physiology"
+  ],
+  "family": [
+    "nitrogen",
+    "carbon",
+    "defense compounds",
+    "fiber",
+    "lignen",
+    "LMA"
+  ],
+  "specific": [
+    "N",
+    "C",
+    "phenolic glycocide"
+  ],
   "organization": "uw-madison",
   "language": "python",
   "owner": "selta"
